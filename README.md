@@ -4,7 +4,7 @@ Briefing:
 1) Install node js and express-handlebars (https://www.npmjs.com/package/express-handlebars)
 2) Create a bullet list like those shown at: https://handlebarsjs.com/examples/partials/register.html
 
-Run it in VS Code with Live Server Extension by Ritwick Dey
+Run it in VS Code terminal (node app.js) and type in a web browser "localhost:3000".
 
 NOTES:
 I ended up referring to this video-tutorial for further instructions:
