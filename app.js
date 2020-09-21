@@ -2,8 +2,6 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-
-
 const handlebars = require('express-handlebars');
 
 app.set('view engine', 'handlebars');
@@ -45,6 +43,18 @@ const mascota = () => {
         class: 'dog',
         class2: 'fas fa-dog',
         human: 'Javi'
+        },
+        {
+        name: 'Xela',
+        class: 'dog',
+        class2: 'fas fa-dog',
+        human: 'Acho'
+        },
+        {
+        name: 'Akira',
+        class: 'dog',
+        class2: 'fas fa-dog',
+        human: 'Kevin'
         }
     ]
     }
