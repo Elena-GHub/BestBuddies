@@ -30,6 +30,7 @@ li {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    padding-bottom: 2%;
 }
 
 .listItems {
