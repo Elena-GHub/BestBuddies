@@ -2,7 +2,7 @@
 Basic Express Handlebars practice with bullet list.
 Briefing:
 1) Install node js and express-handlebars (https://www.npmjs.com/package/express-handlebars)
-2) Create a bullet list like those shown at: https://handlebarsjs.com/examples/partials/register.html
+2) Create a bullet list like those shown at: https://handlebarsjs.com/guide/#partials
 
 Run it in VS Code terminal (node app.js) and type in a web browser "localhost:3000".
 
