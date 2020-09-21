@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 body {
     margin: 0;
-    font-family: 'Tangerine', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 li {
@@ -30,11 +31,15 @@ li {
     background-repeat: no-repeat;
     background-position: center;
 }
+
 .listItems {
     width: auto;
 }
 h1 {
     font-size: 3rem;
+    font-weight: bold !important;
+    font-family: 'Tangerine', serif !important;
     text-align: center;
     padding-left: 2%;
+    display: inline-block;
 }
